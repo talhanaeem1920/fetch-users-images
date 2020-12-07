@@ -5,6 +5,7 @@ module.exports = {
     "prettier",
     "prettier/react",
     "plugin:prettier/recommended",
+    // "plugin:react/recommended",
   ],
   plugins: ["react", "unused-imports", "jest"],
   env: {

@@ -1,0 +1,13 @@
+.UserInfo {
+    border: 1px solid gray;
+    border-radius: .5rem;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    margin-bottom: 2rem;
+    background-color: lightgoldenrodyellow;
+
+    &-content {
+        margin-left: 2rem;
+    }
+}

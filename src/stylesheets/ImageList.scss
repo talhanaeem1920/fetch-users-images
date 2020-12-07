@@ -1,0 +1,10 @@
+.ImageList {
+    width: 100%;
+    border: 1px solid gray;
+    border-radius: .5rem;
+    padding: 1rem;
+    background-color: lightgoldenrodyellow;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
